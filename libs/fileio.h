@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <assert.h>
 
 void WriteFile(char*, char*);
 char* ReadFile(char*, int);
